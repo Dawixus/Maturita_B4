@@ -1,5 +1,5 @@
 # Využití technického a programového vybavení
-### 1. Číselné soustavy, binární aritmetické operace, převody mezi soustavami (10, 2, 16), doplňkový a aditivní kód, zobrazení čísla bez a se znaménkem (8bit),         přetečení.
+### 1. Číselné soustavy, binární aritmetické operace, převody mezi soustavami (10, 2, 16), doplňkový a aditivní kód, zobrazení čísla bez a se znaménkem (8bit), přetečení.
 ### 2. Logické funkce NON, AND, OR a XOR, pravdivostní tabulka, UNDF, UNKF, Booleova algebra, poloviční a úplná sčítačka, de-multiplexor, porovnávací obvod.
 ### 3. Sekvenční obvody, D klopný obvod, registr, konečný automat typu Meally a Moore, vnitřní, stavy, přechodová a výstupní funkce, graf přechodů.
 ### 4. Von Neumanova architektura, Harvardská architektura počítače, architektura RISC a CISC, instrukční cyklus, zřetězení instrukcí, taxonomie sběrnic, paralelní, sériový, synchronní, asynchronní přenos dat, otevřený kolektor, třístavový budič.
