@@ -1,5 +1,21 @@
 # Využití technického a programového vybavení
 ### 1. Číselné soustavy, binární aritmetické operace, převody mezi soustavami (10, 2, 16), doplňkový a aditivní kód, zobrazení čísla bez a se znaménkem (8bit), přetečení.
+- Číselná soustava = posloupnost zápisu číslic, dělíme na: nepoziční (římské) a poziční (arabské), nejčastější poziční: dvojková(základ 2), desítková, osmičková
+- Každá poziční soustava má číselný základ Z
+- Převod z desítkové do dvojkové:
+-   intuitivní: (75)10 = 64+0+0+8+2+1 = 1001011(2)
+-   celočíselný: (75)10 = 1%2, 2%2, 4%2, 9%2, 18%2, 37%2, 75%2 = 1001011(2)
+-   desetinné číslo: 0,75 = 0,(0,75*2)(0,5*2) = 0,11(2) - zapíšu 1 pokud 2násobek se větší nebo roven 1
+- Převod z desítkové do šestnáctkové (0123456789ABCDEF):
+-   75(10) = 75 / 16, 11(10) === B(16) = 4B
+- __SČÍTÁNÍ__    a __ODČÍTÁNÍ__  
+- ![image](https://github.com/Dawixus/Maturita_B4/assets/145335482/7b908a54-8c8f-48f8-b249-76d363f5436b)
+  ![image](https://github.com/Dawixus/Maturita_B4/assets/145335482/472d763f-a341-4999-b9cb-f463d27a5915)
+- __NÁSOBENÍ__
+- ![image](https://github.com/Dawixus/Maturita_B4/assets/145335482/bcb65535-21c3-4a30-91fd-0723382eed8f)
+- __DĚLENÍ__
+- ![image](https://github.com/Dawixus/Maturita_B4/assets/145335482/6db423c1-86a3-494f-8298-79780b63be0b)
+- __DOPLŃKOVÝ KÓD__ - 
 ### 2. Logické funkce NON, AND, OR a XOR, pravdivostní tabulka, UNDF, UNKF, Booleova algebra, poloviční a úplná sčítačka, de-multiplexor, porovnávací obvod.
 ### 3. Sekvenční obvody, D klopný obvod, registr, konečný automat typu Meally a Moore, vnitřní, stavy, přechodová a výstupní funkce, graf přechodů.
 ### 4. Von Neumanova architektura, Harvardská architektura počítače, architektura RISC a CISC, instrukční cyklus, zřetězení instrukcí, taxonomie sběrnic, paralelní, sériový, synchronní, asynchronní přenos dat, otevřený kolektor, třístavový budič.
